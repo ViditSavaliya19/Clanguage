@@ -5,7 +5,9 @@ main()
     int a;
     int b;
     int c;
-    // const float pi =3.14;
+    const float pi =3.14;
+    const float pi2 =3.14;
+
     
     printf("PI is %f\n",PI);
 
